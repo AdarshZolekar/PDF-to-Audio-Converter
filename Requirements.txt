@@ -1,0 +1,3 @@
+# Python 3.x installed on your system.
+# Tkinter comes pre-installed with Python. 
+# Install pyttsx3, gTTS & PyPDF2.
