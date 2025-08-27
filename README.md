@@ -60,14 +60,11 @@ A simple Python application with a graphical user interface (GUI) using Tkinter 
 
 ## Dependencies
 
-1. **pyttsx3**
- - *Offline TTS engine*
+1. **pyttsx3** *(Offline TTS engine)*
 
-2. **gTTS**
- - *Google Text-to-Speech (online)*
+2. **gTTS** *(Google Text-to-Speech)*
 
-3. **PyPDF2**
- - *PDF text extraction*
+3. **PyPDF2** *(PDF text extraction)*
 
 4. **Tkinter** *(built-in Python GUI library)*
 
@@ -83,7 +80,7 @@ A simple Python application with a graphical user interface (GUI) using Tkinter 
 
 - Tested on Python 3.7+.
 
---
+---
 
 ## Future Improvements 
 
@@ -104,3 +101,4 @@ This project is open-source under the MIT License.
 ## Contributions
 
 Feel free to open issues or submit pull requests for improvements or bug fixes!
+
